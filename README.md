@@ -2,7 +2,6 @@
 
 **MERN Stack | Node.js | React | React Native Developer**
 
-- 💻 Portfolio: [My Portfolio](https://your-portfolio-link.com)
 - 📫 Contact me: tibebappexam@gmail.com
 - 🌱 Currently learning: React Native
 - 🤝 Open to collaborating on projects
