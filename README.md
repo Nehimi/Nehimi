@@ -2,9 +2,8 @@
 
 **MERN Stack | Node.js | React | React Native Developer**
 
-- 🌍 Based in Ethiopia
 - 💻 Portfolio: [My Portfolio](https://your-portfolio-link.com)
-- 📫 Contact me: nehimi@example.com
+- 📫 Contact me: tibebappexam@gmail.com
 - 🌱 Currently learning: React Native
 - 🤝 Open to collaborating on projects
 - ⚡ Fun fact: Coding is my favorite hobby 😄
