@@ -60,6 +60,16 @@ I am a <b>Dynamic Full Stack and Mobile Developer</b> dedicated to building high
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nehimi&repo=Dunamis-Lounge-App&theme=radical&title_color=D4AF37&show_owner=true" />
   </a>
 </div>
+<br><hr><br>
+<div align="center">
+  <h2>🤝 Let's Connect!</h2>
+  <a href="https://linkedin.com/in/nehimi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nehimi" height="40" width="50" /></a>
+  <a href="https://twitter.com/nehimi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nehimi" height="40" width="50" /></a>
+  <a href="https://instagram.com/nehimi_gulufa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nehimi_gulufa" height="40" width="50" /></a>
+  <a href="https://facebook.com/100057546286897" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="40" width="50" /></a>
+  <a href="https://gitlab.com/nehimi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="gitlab" height="40" width="50" /></a>
+  <a href="mailto:tibebappexam@gmail.com"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="email" height="40" width="50" /></a>
+</div>
 <br><br>
 <div align="center">
   <img src="https://img.shields.io/github/followers/nehimi?label=Followers&style=social" />
