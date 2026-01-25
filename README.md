@@ -15,6 +15,9 @@
   <a href="https://facebook.com/100057546286897">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
+  <a href="https://gitlab.com/nehimi">
+    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+  </a>
   <a href="mailto:tibebappexam@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -25,7 +28,7 @@
 I am a <b>Dynamic Full Stack and Mobile Developer</b> dedicated to building high-performance, aesthetically pleasing digital solutions. With a focus on <b>Flutter</b>, <b>React Native</b>, and the <b>MERN Stack</b>, I bridge the gap between complex logic and stunning user interfaces.
 </p>
 <ul>
-  <li>🔭 <b>Current Project:</b> Architecting <a href="https://github.com/nehimi/Dunamis-Lounge-App"><b>Dunamis Lounge</b></a> - A premium campus hospitality experience.</li>
+  <li>策 <b>Current Project:</b> Architecting <a href="https://github.com/nehimi/Dunamis-Lounge-App"><b>Dunamis Lounge</b></a> - A premium campus hospitality experience.</li>
   <li>🌱 <b>Knowledge Hunter:</b> Currently diving deeper into <b>Clean Architecture</b> and <b>Cloud Solutions</b>.</li>
   <li>⚡ <b>Philosophy:</b> "Code is poetry written in logic."</li>
   <li>📍 <b>Based in:</b> Ethiopia 🇪🇹</li>
@@ -39,7 +42,7 @@ I am a <b>Dynamic Full Stack and Mobile Developer</b> dedicated to building high
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,postman&perline=5" />
 <br><br>
 <h3>🛠️ Development Tools</h3>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&perline=4" />
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,figma&perline=5" />
 <br><br>
 <h2>📊 Performance Metrics</h2>
 <div align="center">
