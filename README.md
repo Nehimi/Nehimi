@@ -1,42 +1,60 @@
-# Hi 👋, I'm Nehimi
-
-**MERN Stack | Node.js | React | React Native Developer**
-
-- 📫 Contact me: tibebappexam@gmail.com
-- 🌱 Currently learning: React Native
-- 🤝 Open to collaborating on projects
-- ⚡ Fun fact: Coding is my favorite hobby 😄
-
+# Hi 👋, I'm Nehimi Gulufa
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3E2723,100:D4AF37&height=250&section=header&text=Full%20Stack%20%26%20Mobile%20Dev&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Building%20the%20future%20with%20Code%20%26%20Coffee&descAlignY=62&descFontSize=25" width="100%" />
+</p>
+## 🚀 About Me
+I am a **Dynamic Full Stack & Mobile Developer** based in Ethiopia 🇪🇹. I specialize in crafting high-impact digital solutions using modern technologies. My focus is on creating seamless user experiences and robust backend architectures.
+- 🛠️ Currently architecting: [**Dunamis Lounge**](https://github.com/nehimi/Dunamis-Lounge-App) (Premium Campus Hospitality App).
+- 📱 Expertise: **Flutter**, **React Native**, **MERN Stack**.
+- 💡 Philosophy: "Design is not just what it looks like and feels like. Design is how it works."
+- 📫 Reach me: **tibebappexam@gmail.com**
 ---
-
-## Skills
-### Programming & Frameworks
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
-
+## 🛠️ Tech Stack & Skills
+### 📱 Mobile Development
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+</p>
+### 💻 Web Development (MERN)
+<p align="left">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+</p>
+### 🔧 Languages & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
+</p>
 ---
-
-## Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/yourprofile)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/nehimi_gulufa)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge)](https://facebook.com/100057546286897)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/nehimi)
-
+## 📊 My GitHub Journey
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nehimi&show_icons=true&theme=radical&hide_border=false&count_private=true" alt="Nehimi's Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nehimi&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nehimi&theme=radical" alt="GitHub Streak" />
+</p>
 ---
-
-## GitHub Stats
-![Nehemi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nehimi&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nehimi&layout=compact&theme=radical)
-
+## 🌐 Connect with Me
+<p align="center">
+<a href="https://linkedin.com/in/nehimi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nehimi" height="30" width="40" /></a>
+<a href="https://twitter.com/nehimi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nehimi" height="30" width="40" /></a>
+<a href="https://instagram.com/nehimi_gulufa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nehimi_gulufa" height="30" width="40" /></a>
+<a href="https://facebook.com/100057546286897" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100057546286897" height="30" width="40" /></a>
+</p>
 ---
-
-## Achievements
-![GitHub Followers](https://img.shields.io/github/followers/nehimi?label=Followers&style=social)
-![Stars](https://img.shields.io/github/stars/nehimi?style=social)
+<p align="center">
+  <img src="https://img.shields.io/github/followers/nehimi?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/stars/nehimi?style=social" />
+</p>
+<p align="center">
+🔥 **Always learning, always building.**
+</p>
