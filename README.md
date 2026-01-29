@@ -9,8 +9,8 @@
 I am a <b>Dynamic Full Stack and Mobile Developer</b> dedicated to building high-performance, aesthetically pleasing digital solutions. With a focus on <b>Flutter</b>, <b>React Native</b>, and the <b>MERN Stack</b>, I bridge the gap between complex logic and stunning user interfaces.
 </p>
 <ul>
-  <li>策 <b>Current Project:</b> Architecting <a href="https://github.com/Nehimi/D-HIERS.git"><b>D-HIERS</b></a> - Digital Health Extention information and reporting system.</li>
-  <li>🌱 <b>Knowledge Hunter:</b> Currently diving deeper into <b>Clean Architecture</b> and <b>Cloud Solutions</b>.</li>
+  <li><b>Current Project:</b> Architecting <a href="https://github.com/Nehimi/D-HIERS.git"><b>D-HIERS</b></a> - Digital Health Extention information and reporting system.</li>
+  <li> <b>Knowledge Hunter:</b> Currently diving deeper into <b>Clean Architecture</b> and <b>Cloud Solutions</b>.</li>
   <li>⚡ <b>Philosophy:</b> "Code is poetry written in logic."</li>
   <li>📍 <b>Based in:</b> Ethiopia 🇪🇹</li>
 </ul>
