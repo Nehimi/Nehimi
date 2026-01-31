@@ -34,12 +34,6 @@ I am a <b>Dynamic Full Stack and Mobile Developer</b> dedicated to building high
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nehimi&theme=radical&hide_border=true&stroke=D4AF37&ring=D4AF37&fire=D4AF37&currStreakNum=D4AF37" width="100%" />
 </div>
-<br><br>
-<h2>🏆 Featured Project</h2>
-<div align="center">
-  <a href="https://github.com/nehimi/Dunamis-Lounge-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nehimi&repo=Dunamis-Lounge-App&theme=radical&title_color=D4AF37&show_owner=true" />
-  </a>
 </div>
 <br><hr><br>
 <div align="center">
