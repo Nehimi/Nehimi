@@ -25,12 +25,6 @@ I am a <b>Dynamic Full Stack and Mobile Developer</b> dedicated to building high
 <h3>🛠️ Development Tools</h3>
 <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,figma&perline=5" />
 <br><br>
-<h2>📊 Performance Metrics</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nehimi&show_icons=true&theme=radical&hide_border=true&title_color=D4AF37&icon_color=D4AF37&text_color=ffffff&bg_color=140C0B" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nehimi&layout=compact&theme=radical&hide_border=true&title_color=D4AF37&text_color=ffffff&bg_color=140C0B" height="170px" />
-</div>
-<br>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nehimi&theme=radical&hide_border=true&stroke=D4AF37&ring=D4AF37&fire=D4AF37&currStreakNum=D4AF37" width="100%" />
 </div>
