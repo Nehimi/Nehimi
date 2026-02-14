@@ -46,3 +46,17 @@ I am a <b>Dynamic Full Stack and Mobile Developer</b> dedicated to building high
   <br><br>
   <sub><i>Built with ❤️ by Nehimi</i></sub>
 </div>
+
+## 📊 GitHub Statistics
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=nehimi&show_icons=true&theme=radical&hide_border=true" width="100%" /></td>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=nehimi&theme=radical&hide_border=true" width="100%" /></td>
+    </tr>
+    <tr>
+      <td><img src="https://github-profile-trophy.vercel.app/?username=nehimi&theme=radical&row=2&column=3" width="100%" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nehimi&layout=compact&theme=radical&hide_border=true" width="100%" /></td>
+    </tr>
+  </table>
+</div>
