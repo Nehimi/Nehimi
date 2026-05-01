@@ -2,7 +2,6 @@
   <h1>💫 Nehimi Gulufa</h1>
   <h3>🚀 Full Stack & Mobile Developer | Flutter Enthusiast</h3>
 </div>
-<br><br>
 <h2>📖 About Me</h2>
 <p>
 I am a Dynamic Full Stack and Mobile Developer dedicated to building high-performance, aesthetically pleasing digital solutions. With a focus on Flutter, React Native, and the MERN Stack, I bridge the gap between complex logic and stunning user interfaces.
