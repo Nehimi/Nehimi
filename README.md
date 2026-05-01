@@ -1,14 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:111111&height=4&section=header" width="100%" />
+
+# Nehimi Gulufa
+
+<code>// Full Stack & Mobile Developer · Ethiopia 🇪🇹 · Open to Collaborate</code>
+
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:1a1a1a&height=180&section=header&text=Nehimi+Gulufa&fontSize=62&fontColor=f0ede6&fontAlignY=42&desc=Full+Stack+%26+Mobile+Developer&descFontColor=D4AF37&descAlignY=66&descFontSize=18" width="100%" />
-
-<br>
-
-```
-// FULL STACK & MOBILE DEVELOPER ·  ETHIOPIA 🇪🇹  ·  OPEN TO COLLABORATE
-```
 
 ---
 
@@ -68,7 +64,7 @@ I'm a **Full Stack and Mobile Developer** dedicated to building high-performance
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=nehimi&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=D4AF37&icon_color=D4AF37&text_color=f0ede6&ring_color=D4AF37)
+![Stats](https://github-readme-stats.vercel.app/api?username=nehimi&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=D4AF37&icon_color=D4AF37&text_color=f0ede6)
 &nbsp;
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nehimi&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=D4AF37&text_color=f0ede6)
 
@@ -102,5 +98,3 @@ I'm a **Full Stack and Mobile Developer** dedicated to building high-performance
 <sub><code>// Built with precision by Nehimi Gulufa · Ethiopia 🇪🇹</code></sub>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:0a0a0a&height=100&section=footer" width="100%" />
