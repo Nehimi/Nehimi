@@ -1,7 +1,6 @@
 <div align="center">
   <h1>💫 Nehimi Gulufa</h1>
   <h3>🚀 Full Stack & Mobile Developer | Flutter Enthusiast</h3>
-  <img src="https://capsule-render.vercel.app/api?type=waving\&color=0:3E2723,100:D4AF37\&height=220\&section=header\&text=Nehimi%20Gulufa\&fontSize=70\&animation=fadeIn\&fontAlignY=38\&desc=Architecting%20Modern%20Digital%20Experiences\&descAlignY=62\&descFontSize=25" width="100%" />
 </div>
 <br><br>
 <h2>📖 About Me</h2>
