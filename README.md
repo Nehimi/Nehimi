@@ -1,100 +1,48 @@
 <div align="center">
-
-# Nehimi Gulufa
-
-<code>// Full Stack & Mobile Developer · Ethiopia 🇪🇹 · Open to Collaborate</code>
-
+  <h1>💫 Nehimi Gulufa</h1>
+  <h3>🚀 Full Stack & Mobile Developer | Flutter Enthusiast</h3>
+  <img src="https://capsule-render.vercel.app/api?type=waving\&color=0:3E2723,100:D4AF37\&height=220\&section=header\&text=Nehimi%20Gulufa\&fontSize=70\&animation=fadeIn\&fontAlignY=38\&desc=Architecting%20Modern%20Digital%20Experiences\&descAlignY=62\&descFontSize=25" width="100%" />
 </div>
-
----
-
-## `$ whoami`
-
-I'm a **Full Stack and Mobile Developer** dedicated to building high-performance, aesthetically sharp digital solutions. I bridge complex logic with stunning user interfaces — specializing in **Flutter**, **React Native**, and the **MERN Stack**.
-
-> *"Code is poetry written in logic."*
-
-| | |
-|---|---|
-| **Current Project** | [Liddo Notes](https://liddo.vercel.app/) — Lead Your Learning |
-| **Learning** | Clean Architecture · Cloud Solutions |
-| **Based in** | Ethiopia 🇪🇹 |
-| **Stacks** | Flutter · React Native · MERN |
-
----
-
-## `$ ls toolbox/`
-
-**📱 Mobile & Frontend**
-
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-
-**⚙️ Backend & Database**
-
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-**🛠️ Tools & Workflow**
-
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
-
----
-
-## `$ git log --stat`
-
+<br><br>
+<h2>📖 About Me</h2>
+<p>
+I am a Dynamic Full Stack and Mobile Developer dedicated to building high-performance, aesthetically pleasing digital solutions. With a focus on Flutter, React Native, and the MERN Stack, I bridge the gap between complex logic and stunning user interfaces.
+</p>
+<ul>
+  <li>Current Project: Architecting <a href="https://liddo.vercel.app/">Liddo Notes</a> Lead Your Learing with Liddo Notes.</li>
+  <li> Knowledge Hunter: Currently diving deeper into Clean Architecture and Cloud Solutions.</li>
+  <li>⚡ Philosophy: "Code is poetry written in logic."</li>
+  <li>📍 Based in: Ethiopia 🇪🇹</li>
+</ul>
+<br><br>
+<h2>🛠️ My Toolbox</h2>
+<h3>📱 Mobile \& Frontend</h3>
+<img src="https://skillicons.dev/icons?i=flutter,dart,react,js,ts,html,css\&perline=7" />
+<br><br>
+<h3>⚙️ Backend \& Database</h3>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,postman\&perline=5" />
+<br><br>
+<h3>🛠️ Development Tools</h3>
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,figma\&perline=5" />
+<br><br>
 <div align="center">
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=nehimi&theme=dark&hide_border=true&background=0D1117&stroke=21262D&ring=D4AF37&fire=D4AF37&currStreakNum=D4AF37&sideNums=f0ede6&sideLabels=8b949e&dates=8b949e)
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nehimi\&theme=radical\&hide\_border=true\&stroke=D4AF37\&ring=D4AF37\&fire=D4AF37\&currStreakNum=D4AF37" width="100%" />
 </div>
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=nehimi&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=D4AF37&icon_color=D4AF37&text_color=f0ede6)
-&nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nehimi&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=D4AF37&text_color=f0ede6)
-
 </div>
-
----
-
-## `$ curl connect/`
-
+<br><hr><br>
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nehimi-gulufa-68294b344)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DevNehimi)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nehimi_gulufa)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/100057546286897)
-[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/nehimi)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tibebappexam@gmail.com)
-
+  <h2>🤝 Let's Connect!</h2>
+  <a href="https://www.linkedin.com/in/nehimi-gulufa-68294b344" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nehimi" height="40" width="50" /></a>
+  <a href="https://twitter.com/DevNehimi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nehimi" height="40" width="50" /></a>
+  <a href="https://instagram.com/nehimi\_gulufa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nehimi\_gulufa" height="40" width="50" /></a>
+  <a href="https://facebook.com/100057546286897" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="40" width="50" /></a>
+  <a href="https://gitlab.com/nehimi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="gitlab" height="40" width="50" /></a>
+  <a href="mailto:tibebappexam@gmail.com"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="email" height="40" width="50" /></a>
 </div>
-
----
-
+<br><br>
 <div align="center">
-
-![Followers](https://img.shields.io/github/followers/nehimi?style=flat-square&color=D4AF37&labelColor=0a0a0a&label=followers)
-&nbsp;
-![Stars](https://img.shields.io/github/stars/nehimi?style=flat-square&color=D4AF37&labelColor=0a0a0a&label=stars)
-
-<br>
-
-<sub><code>// Built with precision by Nehimi Gulufa · Ethiopia 🇪🇹</code></sub>
-
+  <img src="https://img.shields.io/github/followers/nehimi?label=Followers\&style=social" />
+  <img src="https://img.shields.io/github/stars/nehimi?style=social" />
+  <br><br>
+  <sub>Built with ❤️ by Nehimi</sub>
 </div>
