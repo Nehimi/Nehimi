@@ -30,7 +30,7 @@ I am a Dynamic Full Stack and Mobile Developer dedicated to building high-perfor
 <br><hr><br>
 <div align="center">
   <h2>🤝 Let's Connect!</h2>
-  <a href="https://www.linkedin.com/in/nehimi-gulufa-68294b344" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nehimi" height="40" width="50" /></a>
+  <a href="https://www.linkedin.com/in/nehimi-gulufa-68294b344" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nehimi" height="40" width="50" />
   <a href="https://twitter.com/DevNehimi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nehimi" height="40" width="50" /></a>
   <a href="https://instagram.com/nehimi\_gulufa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nehimi\_gulufa" height="40" width="50" /></a>
   <a href="https://facebook.com/100057546286897" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="40" width="50" /></a>
