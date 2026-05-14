@@ -4,7 +4,7 @@
 </div>
 <h2>📖 About Me</h2>
 <p>
-I am a Dynamic Full Stack and Mobile Developer dedicated to building high-performance, aesthetically pleasing digital solutions. With a focus on Flutter, React Native, and the MERN Stack, I bridge the gap between complex logic and stunning user interfaces.
+I am a Dynamic Full Stack and Mobile app Developer dedicated to building high-performance, aesthetically pleasing digital solutions. With a focus on Flutter, React Native, and the MERN Stack, I bridge the gap between complex logic and stunning user interfaces.
 </p>
 <ul>
   <li>Current Project: Architecting <a href="https://liddo.vercel.app/">Liddo Notes</a> Lead Your Learing with Liddo Notes.</li>
